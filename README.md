@@ -1,6 +1,8 @@
 # RoadSignsRecoginition_DeepLearning
 
-This project deals with recognition of road signs from the images. It is single-image, multi-class classification problem.
+This project deals with recognition of road signs from the images. In machine learning terms, it is single-image, multi-class classification problem.
+
+I found this problem interesting as it is subpart of building an autonomous driving vehicles and would help improve driving model to achieve better results. 
 
 Dataset source : 
   http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset 
@@ -17,5 +19,5 @@ For CNN, I built a customized model inspired from VGG16 architecture.
 
 •	Evaluated models through accuracy as metric. Over all models, CNN has achieved good accuracy of about 93% on test dataset. 
 
-•	I will try to tune these models and also implement other models to improve the accuracy. Stay tuned!!!
+•	I will try to tune existing models further and also implement other models to get better accuracy so that model would generalize well to unseen real-world data. Stay tuned!!!
   
