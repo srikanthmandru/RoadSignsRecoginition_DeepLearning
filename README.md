@@ -4,7 +4,7 @@
 
 ### Summary: 
 
-Performed pre-processing of data and feature engineering. Implemented regressors, namely Linear, Lasso, Ridge, Decision tree, Random Forest, using grid search cross-validation to predict the house prices. Evaluated models through root-mean-squared error(RMSE) and selected Random Forests regressor as best model with best cross-validation RMSE and training RMSE value of 0.375 and 0.135 respectively.
+Pre-processed data using normalization technique to standardize pixel values of images. Implemented Shallow Neural Networks , Deep Neural Networks and Convolutional Neural Networks(CNN) using Keras package for python. For CNN, I built a customized model inspired from VGG16 architecture. Evaluated models through accuracy as metric. Over all models, CNN has achieved good accuracy of about 93% on test dataset. 
 
 ### Project Description:
 
